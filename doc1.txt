@@ -1,0 +1,2 @@
+repositorio local => computador
+repositorio remoto => subir en git
